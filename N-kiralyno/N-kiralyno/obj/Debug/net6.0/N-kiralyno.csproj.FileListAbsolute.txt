@@ -1,0 +1,15 @@
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\bin\Debug\net6.0\N-kiralyno.exe
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\bin\Debug\net6.0\N-kiralyno.deps.json
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\bin\Debug\net6.0\N-kiralyno.runtimeconfig.json
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\bin\Debug\net6.0\N-kiralyno.dll
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\bin\Debug\net6.0\N-kiralyno.pdb
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\obj\Debug\net6.0\N-kiralyno.csproj.AssemblyReference.cache
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\obj\Debug\net6.0\N-kiralyno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\obj\Debug\net6.0\N-kiralyno.AssemblyInfoInputs.cache
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\obj\Debug\net6.0\N-kiralyno.AssemblyInfo.cs
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\obj\Debug\net6.0\N-kiralyno.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\obj\Debug\net6.0\N-kiralyno.dll
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\obj\Debug\net6.0\refint\N-kiralyno.dll
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\obj\Debug\net6.0\N-kiralyno.pdb
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\obj\Debug\net6.0\N-kiralyno.genruntimeconfig.cache
+C:\Users\Patrik\Desktop\N-kiralyno\N-kiralyno\obj\Debug\net6.0\ref\N-kiralyno.dll
